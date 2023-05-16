@@ -1,2 +1,2 @@
 # VisteonBD
- d
+Desktop app for automatization purposes
